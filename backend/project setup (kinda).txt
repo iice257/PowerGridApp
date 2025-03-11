@@ -1,0 +1,4 @@
+// Tried helping set up some asp.net core wto get you started. It's a mess.😂
+// I'm not sure if I should use a database first approach or code first approach.
+// So tbh ill just leave that to you and stick to my frontend lmao.
+// Happy coding!
